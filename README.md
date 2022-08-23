@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Mattie! 🏳️‍🌈
+
+I'm a Junior at Brown concentrating in **Mathematics-Computer Science** and **Applied Mathematics**. This is my personal GitHub account containing some of the projects I have worked on before.
+
+🔬 **Research:**
+- In Fall 2022, I will be working under Professor [Brendan Hassett](https://www.math.brown.edu/bhassett/) on topics in Algebraic Geometry (tbd)
+- In Summer 2022, I was in [University of Michigan's 2022 Mathematics REU program](https://github.com/maroon-scorch/umich-reu-2022) working on rationality of conic bundles over the real projective plane, advised by Dr. [Lena Ji](http://www-personal.umich.edu/~lenaji/)
+
+🏫 **Teaching:**
+- UTA for MATH1530 at Brown; **Abstract Algebra**; Fall 2022
+- UTA for CS1951A at Brown; [Data Science](https://csci1951a-spring-2022.github.io/); Spring 2022
+
+<!--🌱 **Selected Coursework**:-->
+
+📫 **Contact:** [Email](mailto:matthew_ji@brown.edu)
+
+🎵 **Note:** I also have a professional [second account](https://github.com/mattie-ji) for code used in our research.
 
 <!--
 **maroon-scorch/maroon-scorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
