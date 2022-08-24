@@ -4,7 +4,7 @@ I'm a Junior at Brown concentrating in **Mathematics-Computer Science** and **Ap
 
 🔬 **Research:**
 - In Fall 2022, I will be working under Professor [Brendan Hassett](https://www.math.brown.edu/bhassett/) on topics in Algebraic Geometry (tbd)
-- In Summer 2022, I was in [University of Michigan's 2022 Mathematics REU program](https://github.com/maroon-scorch/umich-reu-2022) working on rationality of conic bundles over the real projective plane, advised by Dr. [Lena Ji](http://www-personal.umich.edu/~lenaji/)
+- In Summer 2022, I worked on the rationality of conic bundles over the real projective plane at the [University of Michigan's 2022 Mathematics REU program](https://github.com/maroon-scorch/umich-reu-2022), advised by Dr. [Lena Ji](http://www-personal.umich.edu/~lenaji/)
 
 🏫 **Teaching:**
 - UTA for MATH1530 at Brown; **Abstract Algebra**; Fall 2022
