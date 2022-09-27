@@ -1,9 +1,9 @@
-### Hi there, I'm Mattie! 🏳️‍🌈
+### Hi there, I'm Mattie (she/her/hers)! 🏳️‍🌈
 
 I'm a Junior at Brown concentrating in **Mathematics-Computer Science** and **Applied Mathematics**. This is my personal GitHub account containing some of the projects I have worked on before.
 
 🔬 **Research:**
-- In Fall 2022, I will be working under Professor [Brendan Hassett](https://www.math.brown.edu/bhassett/) on topics in Algebraic Geometry (tbd)
+- In Fall 2022, I will be working under Professor [Brendan Hassett](https://www.math.brown.edu/bhassett/) on singularities of complex plane curves.
 - In Summer 2022, I worked on the rationality of conic bundles over the real projective plane at the [University of Michigan's 2022 Mathematics REU program](https://github.com/maroon-scorch/umich-reu-2022), advised by Dr. [Lena Ji](http://www-personal.umich.edu/~lenaji/)
 
 🏫 **Teaching:**
