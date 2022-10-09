@@ -13,7 +13,7 @@ I'm a Junior at Brown concentrating in **Mathematics-Computer Science** and **Ap
 
 <!--🌱 **Selected Coursework**:-->
 
-📫 **Contact:** [Email](mailto:matthew_ji@brown.edu)
+📫 **Contact:** [Email](mailto:mattie_ji@brown.edu)
 
 🎵 **Note:** I also have a professional [second account](https://github.com/mattie-ji) for code used in our research.
 
