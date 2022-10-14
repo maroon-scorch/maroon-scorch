@@ -9,7 +9,7 @@ I'm a Junior at Brown concentrating in **Mathematics-Computer Science** and **Ap
 🏫 **Teaching:**
 - UTA for MATH1530 at Brown; **Abstract Algebra**; Fall 2022
 - UTA for CS1951A at Brown; [Data Science](https://csci1951a-spring-2022.github.io/); Spring 2022
-- UTA for CS1540 at Brown; [Advanced Introduction to Probability for Computing and Data Science](https://cs.brown.edu/courses/csci1450/); Fall 2021
+- UTA for CS1450 at Brown; [Advanced Introduction to Probability for Computing and Data Science](https://cs.brown.edu/courses/csci1450/); Fall 2021
 
 <!--🌱 **Selected Coursework**:-->
 
