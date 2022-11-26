@@ -3,10 +3,10 @@
 I'm a Junior at Brown concentrating in **Mathematics-Computer Science** and **Applied Mathematics**. This is my personal GitHub account containing some of the projects I have worked on before.
 
 🔬 **Research:**
-- In Fall 2022, I will be working under Professor [Brendan Hassett](https://www.math.brown.edu/bhassett/) on singularities of complex plane curves.
 - In Summer 2022, I worked on the rationality of conic bundles over the real projective plane at the [University of Michigan's 2022 Mathematics REU program](https://github.com/maroon-scorch/umich-reu-2022), advised by Dr. [Lena Ji](http://www-personal.umich.edu/~lenaji/)
 
 🏫 **Teaching:**
+- UGA for MATH2510 at Brown; **Algebra**; Fall 2022
 - UTA for MATH1530 at Brown; **Abstract Algebra**; Fall 2022
 - UTA for CS1951A at Brown; [Data Science](https://csci1951a-spring-2022.github.io/); Spring 2022
 - UTA for CS1450 at Brown; [Advanced Introduction to Probability for Computing and Data Science](https://cs.brown.edu/courses/csci1450/); Fall 2021
