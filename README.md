@@ -1,8 +1,10 @@
 ### Hi there, I'm Mattie (she/her/hers)! 🏳️‍🌈
 
-I'm a Junior at Brown concentrating in **Mathematics-Computer Science** and **Applied Mathematics**. This is my personal GitHub account containing some of the projects I have worked on before.
+I'm a senior at Brown concentrating in **Mathematics-Computer Science** and **Applied Mathematics**. This is my personal GitHub account containing some of the projects I have worked on before.
 
 🔬 **Research:**
+- In Summer 2023, I worked on fake projective planes at the DIMACS REU Program, advised by Professor [Lev Borisov](https://sites.math.rutgers.edu/~borisov/).
+- From Spring 2023 to the present, I am working with Professor [Kun Meng](https://appliedmath.brown.edu/people/kun-meng) on topics in topological data analysis and manifold learning.
 - In Summer 2022, I worked on the rationality of conic bundles over the real projective plane at the [University of Michigan's 2022 Mathematics REU program](https://github.com/maroon-scorch/umich-reu-2022), advised by Dr. [Lena Ji](http://www-personal.umich.edu/~lenaji/)
 
 🏫 **Teaching:**
