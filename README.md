@@ -8,6 +8,9 @@ I'm a senior at Brown concentrating in **Mathematics-Computer Science** and **Ap
 - In Summer 2022, I worked on the rationality of conic bundles over the real projective plane at the [University of Michigan's 2022 Mathematics REU program](https://github.com/maroon-scorch/umich-reu-2022), advised by Dr. [Lena Ji](http://www-personal.umich.edu/~lenaji/)
 
 🏫 **Teaching:**
+- HTA for CSCI1550 / 2540 at Brown; **Probabilistic Methods in Computer Science**; Spring 2024
+- UTA for MATH1140; **Functions of Several Variables (Calculus on Manifolds)**; Spring 2024
+- Grader for MATH2520; **Algebra (Commutative Algebra)**; Spring 2024
 - UTA for MATH1530 at Brown; **Abstract Algebra**; Fall 2023
 - HTA for CS1450 at Brown; **Advanced Introduction to Probability for Computing and Data Science**; Fall 2023
 - UGA for MATH2510 at Brown; **Algebra**; Fall 2023
