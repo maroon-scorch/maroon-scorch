@@ -1,8 +1,9 @@
 ### Hi there, I'm Mattie (she/her/hers)! 🏳️‍🌈
 
-I am a first year **Mathematics** PhD student at the University of Pennsylvania. Previously, I graduated with two Bachelor of Science degrres in **Mathematics-Computer Science** and **Applied Mathematics** from Brown University. This is my personal GitHub account containing some of the projects I have worked on before.
+I am a second year **Mathematics** PhD student at the University of Pennsylvania. Previously, I graduated with two Bachelor of Science degrees in **Mathematics-Computer Science** and **Applied Mathematics** from Brown University. This is my personal GitHub account containing some of the projects I have worked on before.
 
 🏫 **Teaching:**
+- Grader for MATH 1300 at UPenn: **Introduction to Calculus**; Summer 2025
 - HTA for CSCI1550 / 2540 at Brown; **Probabilistic Methods in Computer Science**; Spring 2024
 - UTA for MATH1140 at Brown; **Functions of Several Variables (Calculus on Manifolds)**; Spring 2024
 - Grader for MATH2520 at Brown; **Algebra (Commutative Algebra)**; Spring 2024
