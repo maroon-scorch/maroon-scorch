@@ -5,8 +5,16 @@ I am a second year **Mathematics** PhD student at the University of Pennsylvania
 🏫 **Teaching:**
 
 Note: For Brown, a course number of 2000 or higher indicates a graduate-level course.
+
+At **UPenn**
 - TA for MATH 2400 at UPenn: **Calculus, Part III**; Summer 2026
 - Grader for MATH 1300 at UPenn: **Introduction to Calculus**; Summer 2025
+
+At **eCHT** (electronic Computational Homotopy Theory):
+- TA for **eCHT Stable Homotopy Theory Class**; Spring 2026
+- TA for **eCHT Kan seminar**; Fall 2025
+
+At **Brown University**:
 - HTA for CSCI1550 / 2540 at Brown; **Probabilistic Methods in Computer Science**; Spring 2024
 - UTA for MATH1140 at Brown; **Functions of Several Variables (Calculus on Manifolds)**; Spring 2024
 - Grader for MATH2520 at Brown; **Algebra (Commutative Algebra)**; Spring 2024
